@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <tabs>
+        <tab
+            android:id="@+id/tab_lugares"
+            android:icon="@mipmap/ic_gps_foreground"
+            android:title="Lugares"/>
+        <tab
+            android:id="@+id/tab_traducir"
+            android:icon="@mipmap/ic_traducir_foreground"
+            android:title="Traductor"/>
+
+        <tab
+            android:id="@+id/tab_favoritos"
+            android:icon="@mipmap/ic_estrella_foreground"
+            android:title="Favoritos"/>
+
+        <tab
+            android:id="@+id/tab_perfil"
+            android:icon="@mipmap/ic_usuario_foreground"
+            android:title="Perfil"/>
+    </tabs>
+</selector>-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_lugares"
+        android:icon="@mipmap/ic_gps_foreground"
+        android:title="Lugares"/>
+
+    <item
+        android:id="@+id/tab_traducir"
+        android:icon="@mipmap/ic_traducir_foreground"
+        android:title="Traductor"/>
+
+    <item
+        android:id="@+id/tab_favoritos"
+        android:icon="@mipmap/ic_estrella_foreground"
+        android:title="Favoritos"/>
+
+    <item
+        android:id="@+id/tab_perfil"
+        android:icon="@mipmap/ic_usuario_foreground"
+        android:title="Perfil"/>
+</menu>
